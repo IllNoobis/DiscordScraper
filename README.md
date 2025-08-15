@@ -19,7 +19,7 @@ All tht trash. Anyways I made changes so it doesnt fuckup all the time lol
 
 - Clone repo from git
 ```sh
-git clone https://github.com/Sxvxgee/Discord-Scraper
+git clone https://github.com/IllNoobis/DiscordScraper.git
 ```
 
 - Install the dependencies.
